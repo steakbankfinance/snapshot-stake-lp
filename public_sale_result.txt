@@ -1,332 +1,408 @@
-user address:0xb0D202791ba6ef2e5e2AAD9dFA7b0Bbc542AB095, lottery amount:10
-user address:0xe009A8DC43F4Be935f18A997689b431723d109a8, lottery amount:10
-user address:0xc5E259fbc68D9014B23c17F25bd2A5C763A08264, lottery amount:10
-user address:0x9eC8E8F64EC6bB47d944B4b830130B5fCf2Da182, lottery amount:10
-user address:0xb2ceb04874FcE4cEfd38C751C8ed7b88D2185c4d, lottery amount:10
-user address:0xFf88531C3EfC13d662A131Fb188d6a1DC8f72378, lottery amount:10
-user address:0xdb97aa9B0C07254Ef9E017641f5da271E5C31f35, lottery amount:10
-user address:0xC4AA614b06310805d6dFd4393402cCb844a4223c, lottery amount:10
-user address:0x0EB4ADD4bA497357546DA7F5D12D39587cA24606, lottery amount:10
-user address:0xb8A7dE41a8D28952a4d253F22C4786C6Cd65122F, lottery amount:10
-user address:0xa6b6fB6a424f4d107fbdd6F3BCA610B568cCB2EA, lottery amount:10
-user address:0xfe568f98dF64e7B49050FfE810D9f78952bb4f92, lottery amount:10
-user address:0xBc87E6A5b4a454B05f6BDf4BB05586b9149C2aA7, lottery amount:10
-user address:0x89Ba504E163f7429cBCa7bC4F85BCc32AdAa110B, lottery amount:10
-user address:0x96a3ba33255a96634E98D108cc111DDC87376d7a, lottery amount:10
-user address:0x729Ea64B1393eD633C069aF04b45e1212905b4A9, lottery amount:10
-user address:0xa9562e29f82abd50f1da6068fAfcc3b5025E522E, lottery amount:10
-user address:0x40c2541FF113Df5D865C9c7c9a4a2170ca926620, lottery amount:10
-user address:0xe67e43b831A541c5Fa40DE52aB0aFbE311514E64, lottery amount:9
-user address:0x38e65E030B9B7aCf5Fe9072272516C04cC8a8560, lottery amount:9
-user address:0xa788C59880F31d6a9c3511A8064286682b01756b, lottery amount:9
-user address:0x190E7C0403a5DD4bD21d426D88b76b1d513D39B1, lottery amount:8
-user address:0x9e2C4933D6228a69149E3011CB1302f3e46a4263, lottery amount:8
-user address:0x8A16718aCa875d59e348B4D276cC5ECBEDe68B22, lottery amount:8
-user address:0xB60b2887C7f64ae49EcC939eCB48C985E9358f09, lottery amount:7
-user address:0x347c5D1CE235F341065390039921621D70639d55, lottery amount:7
-user address:0x5789A38a3FAcfaa86ED950e88D79a9A2F6140052, lottery amount:7
-user address:0x93e5204E7033483985Bcc94E48283f3359b2be69, lottery amount:7
-user address:0x74f91d657A5E2Dd1F8Bf446180Be84dA3A8c4Fb3, lottery amount:7
-user address:0x6325246e88510D64DBdF10ca77095F06C5cA8735, lottery amount:6
-user address:0x83a0Cb9A0bbAAB77d9Fce6857B2D7925B66bD5Ed, lottery amount:6
-user address:0x9F24dE85F8A687BDe08756EC64E2B74f198Ca9bA, lottery amount:6
-user address:0x59128ea834e424698Bc45f12c60BeABaB7e51747, lottery amount:6
-user address:0xe7275240C52FC4316277547655C73C10529D345a, lottery amount:6
-user address:0x8d69A355117c12A74A15d58Bfb1303E6C110d518, lottery amount:6
-user address:0xB1dB096De2A713DBb6950Dff2EaFB76521881863, lottery amount:5
-user address:0x687672ef80be21e5938abc4Ad3B423687773AF0a, lottery amount:5
-user address:0x166B6770f7513ee4BE7a88f7C8d250E5E8BCbfAF, lottery amount:5
-user address:0xAFa6F70D5d47f7E339B6F33478aAB32646eb09cB, lottery amount:5
-user address:0xbf49b14a9936d1a6245A43c33BBB50f8648643a0, lottery amount:5
-user address:0xE243436E3d7e070e8E5110E997b11d0c9525896f, lottery amount:5
-user address:0xF388623C892785F7f9539CC86611529D8480EA49, lottery amount:5
-user address:0x8eaFC7959f0ad0724460c0ed72622cc6762dE485, lottery amount:5
-user address:0x81aA42257c3eB994e3b2617e08a98cA9dAC3E490, lottery amount:4
-user address:0x92cfdcEEb276a6Bc2f13B6907CD8E6aC245dD0FE, lottery amount:4
-user address:0x9538E4935E3426e57000b8091fcC0C4DB305B256, lottery amount:4
-user address:0xfD6231A29661100e9F7E68d37730b040E24caD28, lottery amount:4
-user address:0x2AE829024B799046152e39FA6BB45A38B3D8b130, lottery amount:4
-user address:0xc58891BE60Cd6218FDBAB29C6B09b3810978A9b6, lottery amount:4
-user address:0xfA2e1Fb7aDB9e78596ad5aF2885F53B645b6C019, lottery amount:4
-user address:0x88E57C01BeBA95b51006dF6dE835FDec38D370af, lottery amount:4
-user address:0x3e900021b5CAd91350F082405d24a395A2C0c76F, lottery amount:4
-user address:0xA3953352BeAb67861e5a7ffF47f36611A1fF5335, lottery amount:4
-user address:0xd040bAEb020692D62A0ec7811Fb6BE9B96f9844e, lottery amount:3
-user address:0x94566fAe2898502c46ee70970a0869F9565eAeF4, lottery amount:3
-user address:0xba0C9F2D2C7A376Ae8b066576f3615Dc1a4b1ab3, lottery amount:3
-user address:0x20aa2e39a83225c5d5b16675BE3c542bf7951004, lottery amount:3
-user address:0x99E6B634217f861fc17Eb52E58c3fc1A554310ca, lottery amount:3
-user address:0x8d19fb15a0deA5AD84Cd1BAF8890fd3109081b24, lottery amount:3
-user address:0x024E4FB5632cd32499ce60Fe5D892F202E1840C6, lottery amount:3
-user address:0x4085e9Fb679dD2f60C2E64afe9533107Fa1c18F2, lottery amount:3
-user address:0x25df977E61D7a382A7c2c178815760755d750FBa, lottery amount:3
-user address:0xC5Fcf3E1c433F6340E8B6f81025EcC5f76Cec080, lottery amount:3
-user address:0x3B5f808D796be6EC00dC63638465Bfc36Bd60D90, lottery amount:3
-user address:0xC1ba9285ACBae7dC403153F9E5c2B4108AB5ACdc, lottery amount:2
-user address:0x0Aa350FB487F75d4f5d6ED920A5ae0923ded06E1, lottery amount:2
-user address:0x6dc7718962eFFddF37b7262Fe27234E3FAF3A8e6, lottery amount:2
-user address:0xE7a2B4CBEE97A6f3B26b72dA19a07603B9C9fdC5, lottery amount:2
-user address:0x6924d83Ba3cd169E1BCbaE05a13D45C98bbfe3a3, lottery amount:2
-user address:0xe3bdaa9fFC03f8AA3F51168c5205E445ab216F15, lottery amount:2
-user address:0x95B18b7721eE14714ab9d50f21fD8027D9b96432, lottery amount:2
-user address:0xB1e46BFdBf636D00238E3E765Da45F6098B8d4F9, lottery amount:2
-user address:0x6355255DA118B3B7B3Fb80bA2E345C71dDe22A56, lottery amount:2
-user address:0x658D777dADC32b2385655913dAcCcF70E687cCf8, lottery amount:2
-user address:0x72C85976d9920615aAa1887D987330d9cAf7295f, lottery amount:2
-user address:0x55215A0D2010fCE5c9F76CA9665eF4df430B26A7, lottery amount:2
-user address:0x66A8Cdd1d92D1e344463580c27d2Db019ac003Bc, lottery amount:2
-user address:0x88512CfC901ADB8E17a143310700d6C4BF036F6a, lottery amount:2
-user address:0x8b992C5C31B86cc3a4993eED51fae9ccA0eb3527, lottery amount:2
-user address:0xe24759dFF56214433a78ddfcC68aF10f58C8c17B, lottery amount:2
-user address:0x94384b9D832862243f8ED52658de1f42B8e172b4, lottery amount:2
-user address:0xBd1B3513Bb0Ce1529242Cfb28926618809592362, lottery amount:2
-user address:0x1D991eb990040F79557A3aBc3B899F81c5bdB19F, lottery amount:2
-user address:0x951b7c7d65636DA3971eCa0eb119ecd26230B5dD, lottery amount:2
-user address:0x699990A8e7ada9E92C932D6e8fb365024fC74b43, lottery amount:2
-user address:0x336d4aFD4c1e0B82a2Bb38859C234c54eDF0a983, lottery amount:2
-user address:0xFCAf5b8babB4864a446671f9b88CB73BAB169BdA, lottery amount:2
-user address:0xA7758B30e93d2ED6CEA7c85e5B12a1d46F0f091f, lottery amount:2
-user address:0x9554A1Cf07a20616778821Db521bAaCaa79a6631, lottery amount:2
-user address:0x6C01ec9622e50799d62ca076F2e2aa34DC840D5B, lottery amount:2
-user address:0x5c9d09716404556646B0B4567Cb4621C18581f94, lottery amount:2
-user address:0xF07A7E8302cDe616f233fCa4fF8aC3701D58faae, lottery amount:2
-user address:0x4F34b189dC7859E33cC210C4fe5A52d6fF2C033c, lottery amount:2
-user address:0x2C6EFf3cCd4dD62DD857944087B6BCdD69ec2018, lottery amount:2
-user address:0x91b4ADe96e8d0eEfdf2a57cef161D13DC633E0d7, lottery amount:2
-user address:0x19E408A49d9f5b6CcCA8Bb1B80129f4561027875, lottery amount:2
-user address:0xC7EF24CeD7F766bc5f502BcD3bf20c81eb2fB644, lottery amount:2
-user address:0x266E40Cc011197D224a49b7085A994f43Dc4F808, lottery amount:2
-user address:0xE8E61Db7918bD88E5ff764Ad5393e87D7AaEf9aD, lottery amount:2
-user address:0x10534D4e612071E6B6480C498dd8BDB8f51b9ed7, lottery amount:2
-user address:0x5876f3B3DEdA7c3A2F992386471823E26b87fF8F, lottery amount:2
-user address:0xd6B09a68dEF89329dd82b4605a7234641FA41113, lottery amount:2
-user address:0x3298492EE2689911866EBb01A1774DB060ad6A7C, lottery amount:2
-user address:0x5f27ff119Ebd1578B3466eaee5Fb70ad9514c164, lottery amount:2
-user address:0x3283b407df806543Cb321Ad9Cb363ECCb33067d5, lottery amount:2
-user address:0x0079CE80043EDc3325598e4A3b6293ab779bf174, lottery amount:2
-user address:0xb19367DcbC2b0561c1f9cAf4E40F083bd64e1b2c, lottery amount:2
-user address:0xEdb46071e2519472022995f9dE4d24c4CfDde002, lottery amount:2
-user address:0xf098e7F0e2e2c5F45B90824a78BE884aE8102C30, lottery amount:2
-user address:0x34E10Be3bB361376e89c548f9eDE2832000a8BC8, lottery amount:2
-user address:0x8c16C8FE98a50B515cF8268090bcB8886B241908, lottery amount:2
-user address:0xFF389e55ee4dD64D82B2b6FefEF3F7aA63B218fD, lottery amount:2
-user address:0x4d883824258f7253101f266a23207DCb2Dd45768, lottery amount:2
-user address:0x7D75D895241813B6283f92EBA762a50eAF3244f0, lottery amount:2
-user address:0xb75CAAcc1d36f81726237E356aD0C62526591844, lottery amount:2
-user address:0xa275179da5C9C5F87C7497CBe3b70AaF2878a421, lottery amount:2
-user address:0x3531386bADa1AC1D9c36Bb9364305e43f2Ac87D7, lottery amount:1
-user address:0xA25794684Ad0a83c35E64787d605eb21b593c5ee, lottery amount:1
-user address:0x094b57E48ac689C542eD8732D35641ff733237f7, lottery amount:1
-user address:0x3cEB1C50cB01A304b8544cb9B13E427D08b288c7, lottery amount:1
-user address:0x2e7F4121D3b6FA85BC59aF13d2308EdF05aC3966, lottery amount:1
-user address:0x562BF1B67Dc40d9b7C3ddd49E45aE58e61E1B76E, lottery amount:1
-user address:0x432FCd67815D5cC72808A7815a02373FDEE7d740, lottery amount:1
-user address:0xdaef4F083631fEBaC8A7628E173ED1a77761bCBb, lottery amount:1
-user address:0x71fACC1A6489f97FA9ce5Dba51a546e0cd1eE92E, lottery amount:1
-user address:0xEDc05702ccd99f28834491f4e11b2ee81D6d889c, lottery amount:1
-user address:0x9c766c2afc9C9Db4371885aEE8027eab262A1F0d, lottery amount:1
-user address:0x565c2AC754766ed30890226e70d05400FB3D404a, lottery amount:1
-user address:0x108cAbA6aB68eA4b177618eFcDdc4c06e52122BF, lottery amount:1
-user address:0x2b5cc85313A115D5fA38d5E549B6aeca7669Ec7D, lottery amount:1
-user address:0x4e12eB25d526d808AF8b503BE3F30e0c7aE49f4c, lottery amount:1
-user address:0x2A6Be69cd729288006f831737D5032f15626d52c, lottery amount:1
-user address:0x1E7436d46184c748565A36130970222f298DbDB7, lottery amount:1
-user address:0x893B91352f717f8d0a633A4C9BA5D190B86ccA43, lottery amount:1
-user address:0x33e6090247360fB96Ac44D98FaF70dB0f97e4b69, lottery amount:1
-user address:0x0952ecc0080Ed9A0cBD5839a3CC6758b85C3a835, lottery amount:1
-user address:0x16e341883cc8B9233cf3F55d3c808C9E82ea9eBB, lottery amount:1
-user address:0x178255e4B37492240A4b4D198Adb1ffEd6d71E16, lottery amount:1
-user address:0x677AcC5a6E63EB12bFf0353e5d4BE7437e983662, lottery amount:1
-user address:0x1A90C9dA4c3e3DD7eadA67D6a09C4828417D4aCa, lottery amount:1
-user address:0x47439eE571A136fc3D38a394ebfeDC966f8d491d, lottery amount:1
-user address:0x73A651063F7E3169624c05d76F728D489a97dCD4, lottery amount:1
-user address:0x2BB7Ce5f7750E6e21445243Effd48200cBb63E49, lottery amount:1
-user address:0x95A64C8F0340fB22722142BA5430A20Fcbea4A8f, lottery amount:1
-user address:0x24af0150B7A7Cb2e934f1C6531c751E08863ee9E, lottery amount:1
-user address:0x24E9FB39C5F69a9DFC6558A3Df26468731Cd76C1, lottery amount:1
-user address:0xc014Af9fAD3C2A594bc47012262F6864921de5B5, lottery amount:1
-user address:0x1236e900B3164ABe9e2E4096FeA9FE5559320847, lottery amount:1
-user address:0xd91ceE8353074a35895c9Cb78833c90Abd3e8665, lottery amount:1
-user address:0xC15B2336797a5A7F3110453598462FbaF4205AB6, lottery amount:1
-user address:0xeC32D8B0bcd1d1cA134767F9f8a5871c8D373475, lottery amount:1
-user address:0x67E8a61859fC7AEcD5660B962F0b49fCa7FA0e89, lottery amount:1
-user address:0xc98030E227F89DE8021AF1F828D3739a2390c317, lottery amount:1
-user address:0xf87F7704aCDdA6B02d3f7d16bbF62cb42330fCD5, lottery amount:1
-user address:0x1A79E2ac1f4F79d85afca3f91b88a84CDF443Fc6, lottery amount:1
-user address:0xBFE99Ce9D2A2f3680fe22F1a38FA2Efd5F955D4b, lottery amount:1
-user address:0x9b4c436F40e7fbae7bAD8B7547A2E8652c71B6c5, lottery amount:1
-user address:0x5369CC705E8356085eEC5fA48bfeA9D91F8e5d5D, lottery amount:1
-user address:0xf17441352d36a537c36dB7782B7f08651fbBD86F, lottery amount:1
-user address:0xc7c1bBA80eb8d6822FD7f733631DBDD03FFE4B60, lottery amount:1
-user address:0xAF842Ccb244C41B6e6FE5DF1D96d5CbC679E52D7, lottery amount:1
-user address:0xFB643E874D12314d02f5949D95a9dd9F87A4a86C, lottery amount:1
-user address:0x24D768d1fFadea536f293354553d360c7E16a8E0, lottery amount:1
-user address:0x5d5Cf7048Ad860Fca823950184bc2a68DbB4f9C9, lottery amount:1
-user address:0x96789ACD511c1be8EA6D958C147759292E6bC099, lottery amount:1
-user address:0x478bb542f7658d635ABBA67edB987806DFF5b83d, lottery amount:1
-user address:0xdd62d76d44c520EA82fe7E503994354e59672180, lottery amount:1
-user address:0xaee2Ae13EBf81d38df5a9Ed7013E80EA3f72e39b, lottery amount:1
-user address:0xFa63E6A53c6C93A0c8Dd4fE57ebe088EC4aEaBbD, lottery amount:1
-user address:0x3deA93138a1A73500C4A773037b893D9A04Ad0E7, lottery amount:1
-user address:0xA583A3B17c8C36C902A441ddE105499661a7e908, lottery amount:1
-user address:0xCcd2B26Bc1bDB18eBFFF2988761B6B8410B47104, lottery amount:1
-user address:0xa1d0B3B360595A82dbAAC1667535579bC568F8DD, lottery amount:1
-user address:0x1eC3Bc15D4F6c435948F7007d640CF208F34762F, lottery amount:1
-user address:0xD8CCcbb18125DAE44f75b07F844E16b692E812F2, lottery amount:1
-user address:0x088f33F44C2DAf3C084918eECB1E8058E79DD1bC, lottery amount:1
-user address:0x176F4c285A6a05504A46eE861843511574471654, lottery amount:1
-user address:0x48805B820837F9dCa575e92Aa662A1cdF589ee8b, lottery amount:1
-user address:0x5a4Db3F86C8eeF6030418598188E29CEa86025d1, lottery amount:1
-user address:0x712924d75c4c2cf1287E30B3BF88b3AD7a3D78A5, lottery amount:1
-user address:0xeE98BaE37E148CFA9657aE410a530D31530758a7, lottery amount:1
-user address:0x19527a176a9634ef8b83e25bC0FDD90533E0A966, lottery amount:1
-user address:0xCa40E883BF3d614E5e0971d2C3c68eca9F22aBcE, lottery amount:1
-user address:0xd507D4Af71088BAfbf2eA0CdB6962694F850DE01, lottery amount:1
-user address:0x4e4f94cDFc2030A369126a0b67e7a3a424D8e0c6, lottery amount:1
-user address:0x353a527997F845293A25A2ef0920C0Dd22e1F511, lottery amount:1
-user address:0x797CcC1E88dD635c1df3f953602D34F94C684951, lottery amount:1
-user address:0x45988c3d7A4Ba9B93A0FeF23476ad689Df7Eddb0, lottery amount:1
-user address:0xd7fB451a7EB452c6679552c636f2b242426CAe7A, lottery amount:1
-user address:0x342aA41f52261D354d5AA71bfbCf30a17Fbc05ad, lottery amount:1
-user address:0x614F3222b2016E5fa5cd883107f8f6e2811dE884, lottery amount:1
-user address:0xeE7164C2A20CA710433E6e9c68B33C6549fd91d7, lottery amount:1
-user address:0xa42cf12859dD2Bf5832C1A8D7dA1B27b0F2c795d, lottery amount:1
-user address:0x14636bcEd44f474BC78733beef874384f8770115, lottery amount:1
-user address:0xD028BaBBdC15949aAA35587f95F9E96c7d49417D, lottery amount:1
-user address:0xdbD62b8115f0C4065cE4eEB77d9296cB7bFC3913, lottery amount:1
-user address:0x16d08176ea597e9512D80a83d3215e32fF1bF305, lottery amount:1
-user address:0x0C111c473bD87Bf696791119a27808538A122Bf6, lottery amount:1
-user address:0xA74EB9340F4C25cD27dfA0e99cE70aCe3A8CC9d3, lottery amount:1
-user address:0x71541A65789E5760704DF98Ad2C6a4ca8a71C80e, lottery amount:1
-user address:0x53ea7752746BC0F38b34C085E46194b2C8487BF5, lottery amount:1
-user address:0xA9f6764a61E43689F79a5d033a8E09fcB90FCd28, lottery amount:1
-user address:0x755c72635644dA821FE915118dEFC2ACD8b87Cd8, lottery amount:1
-user address:0xCb202dF396B295c3B716988CE67d91afc17Ec689, lottery amount:1
-user address:0x7994fC4A94dD012d9D5dE7d4894cFbC5a62A8d3f, lottery amount:1
-user address:0x0989B6552398c658ce762B8E6Df24F5036284b68, lottery amount:1
-user address:0xb503C35D4D7f5C73bAC02e2b446085993c502eD9, lottery amount:1
-user address:0x8B065A3e6a1816b6B7eA2E76F109C4490a26F482, lottery amount:1
-user address:0x33F5200377b345630Bd99E7bD9c746E46266Fc6A, lottery amount:1
-user address:0x12670A2Cf547C47f3C8Cf9cAD5AEf114555B9be7, lottery amount:1
-user address:0x2d413cc037773F5234C2D270F25d01d5DF993A5E, lottery amount:1
-user address:0xdeA3c06EEe614bF84e74d505173822236c8Ad135, lottery amount:1
-user address:0xF67184055e31748f3445C5A78B2650Dc513Bc029, lottery amount:1
-user address:0x3084e2D8cbdff6bBafC8365c3690e89AA32271fB, lottery amount:1
-user address:0x09c0e7D6C97b942a06361Bed21a1f4224d7988F5, lottery amount:1
-user address:0x65D94166e9a29CE5D7C57E5E1ff8Ff3B671Aa5bA, lottery amount:1
-user address:0x50F12c8A1b104e86EA6c1da79Fb5e1e46F088D5c, lottery amount:1
-user address:0xAc8C73e499f337E9b5d4F6055B1fB20F1d588191, lottery amount:1
-user address:0x2D52F7BaE61912f7217351443eA8a226996a3Def, lottery amount:1
-user address:0xB47a3f0b0ac397ae420e7CDA42EF22b0FFff3A26, lottery amount:1
-user address:0xEf52f55116BADd0B2f00af07421F6d57Bbb98F22, lottery amount:1
-user address:0xb38307818d1357Db41B33Cc8340D3AD9ED0C35Ce, lottery amount:1
-user address:0x9B365Dc77FD0a7B43fbeEEAf8DFaBD5Bf3CfCF8E, lottery amount:1
-user address:0x68cDa07cbCAC03FfdC90b17c75d1e4d94D4394A3, lottery amount:1
-user address:0x77B4c9590c486B0b8D32D526A7dEB7C6364bD9BB, lottery amount:1
-user address:0x239e4EC9f4ee28884B727F93AB3feA188E681053, lottery amount:1
-user address:0x9B6131eAE892dE5C96DDD3Af52c74359Cb99596e, lottery amount:1
-user address:0x945728797887fDEbc2d2Df277B5b506A43d6435D, lottery amount:1
-user address:0x14267bCBAD45C65A4c803469841844Aafc4C0E9F, lottery amount:1
-user address:0x7c1C3C0D538736128E1EC9De82E4DA9e7dc94A75, lottery amount:1
-user address:0x46a4E8a1F64a9D2aE94d6E16a50106Ece6ED92c7, lottery amount:1
-user address:0xaC58Aa71114E895AC395cdD0E3391d3eCFFB6fbc, lottery amount:1
-user address:0x78343d9b213B27b97a6ca27B284E8A9e8a93fAf2, lottery amount:1
-user address:0x40Db8365d1252bcb06598927698238a99D39228E, lottery amount:1
-user address:0xd0BEa4159cf6466472Eb1271908358943328112e, lottery amount:1
-user address:0x7ce5215a0831952B1d0587eE40DF1BF360e0a554, lottery amount:1
-user address:0xA4B2D9E832a80B1125f9C3fc4a4F240ae8fA5804, lottery amount:1
-user address:0x9Ab30e5206df3f80B670187D7788eB1De2a1DbeF, lottery amount:1
-user address:0x43951C6bd7396F7EAd4c4f6958fa9ef6d8f57300, lottery amount:1
-user address:0x05426906d7564DB9e9267FDdfeD28d844E81940A, lottery amount:1
-user address:0x53F5BF4e9F9FC8eBD715876454B82d148Eb24a4A, lottery amount:1
-user address:0x2759321Df4C0f0475c41BBf9d17891bd42E32C3c, lottery amount:1
-user address:0x32bd15ab5031Ae10CF434Cb4C962630466F36175, lottery amount:1
-user address:0x0769e9A5AAD136aCECF185C097925101A9beD388, lottery amount:1
-user address:0x8308244C8E5b70E3f237E699551C3648a8F798f4, lottery amount:1
-user address:0x7770C101f146D479F85466E5BA3c16a131d08AB5, lottery amount:1
-user address:0x3D127774339A9db809a0beA58526B1C00a744ebD, lottery amount:1
-user address:0x10C38452B23C94f9528Ce3527bd0a73D845d0cE9, lottery amount:1
-user address:0x361d4Da8936c19100cc7643FAefbad2632F7e321, lottery amount:1
-user address:0x6a98342BC52B17398C2e500B46178F6E9Cf49488, lottery amount:1
-user address:0xf9832b7bc039878E5665F70F0C01FcB2d999ECAd, lottery amount:1
-user address:0x1005e511f3430117aE6a538d48Bd2409401ad6a0, lottery amount:1
-user address:0xf9Ebb27f0d246a63AC7F42C56b980a1241Ae130B, lottery amount:1
-user address:0x970B206F3bFb86f06581BBEC04DD2e703266fE84, lottery amount:1
-user address:0x5edF9E83a4755E20413fdaCf3f5309F945cfBc92, lottery amount:1
-user address:0xB9F831F19f94f09709cF75C757E5BD7A9a812819, lottery amount:1
-user address:0x9729334ADD4fE99D116E689Ba11EC34e6C214A72, lottery amount:1
-user address:0x14484Be0F09838e614e13dA949c67604deF5fD4e, lottery amount:1
-user address:0xc4Ed448E7D7bdD954e943954459017BE63584F69, lottery amount:1
-user address:0xEE4aa56D4D6eFB7b560037b288765d9c1ac0396d, lottery amount:1
-user address:0x28e5d92148aA12b0fCcd268ff643bE86Bbb5265e, lottery amount:1
-user address:0x905F9BAA2332c8A3399D77D6A0BD094e9B11d9F0, lottery amount:1
-user address:0x8214E4Ab4Fd9212b7e14d97cC0bbA6B9F4C37FEB, lottery amount:1
-user address:0xF4875Ec545c17819a277E3E002aA45A139354819, lottery amount:1
-user address:0xE02720bA5e8c81932E986AA8cd95f016E6f4E13C, lottery amount:1
-user address:0x9760f469e5D62CA69444B775e561EFDa2bb7Fd5b, lottery amount:1
-user address:0x83587dfc8Cdafb76aB892a939cD329ACeb751b1d, lottery amount:1
-user address:0xee66AB3B98e9BA86D8cFCDB653EF55b741E9C230, lottery amount:1
-user address:0x2a742Ea8818CACcD365f8891C97E58d520371C2C, lottery amount:1
-user address:0xcfb863210Cb4e071ebAF9E79A943b890Cd8561a6, lottery amount:1
-user address:0x1bDd774E92980646Bf46c4F21ddade4eF90085Fa, lottery amount:1
-user address:0x0d68cF3fe032449B6E01DA8DA2862393E9170D30, lottery amount:1
-user address:0x35668F1096708A2ce1bAB8bEcdEFceb502aD1D19, lottery amount:1
-user address:0xe1f91955016fe6a240dE834Addd26c33a8b2250f, lottery amount:1
-user address:0x2D90eA46080DeEE922A0D0994330e3da68F62C24, lottery amount:1
-user address:0x48812165fda89043126Bd3Dd4BdBc1C8316d4550, lottery amount:1
-user address:0xFE4B04ADe5478F3B649614221CDCc43EE31fA27e, lottery amount:1
-user address:0xADc49A5EC79d548581051dCa16496AFC5280f6E6, lottery amount:1
-user address:0xed4E15A701D845f7e76C93B2A8AF13CDAB86c0a2, lottery amount:1
-user address:0xF53c20708E9Dbc2fb6798Cd8A6F78DA4df4d6F78, lottery amount:1
-user address:0xB16617664C5CcEAD4f561e8f2d4300E2E677D6B1, lottery amount:1
-user address:0x4eBBbFF7E4FB62CD751c9402d10a67Fd763eF825, lottery amount:1
-user address:0xF84Bfa23C2ab766c47056011b26E2D12ade5C754, lottery amount:1
-user address:0x871DBc800563f03bC58a88f699a6b28B7d33BFB7, lottery amount:1
-user address:0x9aF906c01f75154dd3402dfa441C7a4251C3201F, lottery amount:1
-user address:0xB0ad64FBB0694c22cfB6E95374DF0e70bc9713a3, lottery amount:1
-user address:0x7fDF77E88CbE0815fe6c8F32Cc2C24D81678BD07, lottery amount:1
-user address:0x6C4E5CE0fF38415125E725F7f1C8c8a16fE569e7, lottery amount:1
-user address:0xac61b7D3a5D9805EC7Ee0F32ce0bacB3C34f8AA3, lottery amount:1
-user address:0x9faccc6E984c47d2E6ac9bBba6C65f3c65a2952F, lottery amount:1
-user address:0xd7A12814E14c99bbdbBB11f3E274a46eeB68881d, lottery amount:1
-user address:0xA04320b5371Af4D44a7249B468cEd73cE9A08538, lottery amount:1
-user address:0x0edEFA91e99da1eDDD1372c1743A63B1595fC413, lottery amount:1
-user address:0x83f7Bb017b0Ce378dBfbDcB8aeB38173021d9c74, lottery amount:1
-user address:0x276FFb8af57DA846480F14fCdAf3912CDDC5b07f, lottery amount:1
-user address:0x163D873baD5047154B2e6cdA4Fa13c8D03a171e2, lottery amount:1
-user address:0x18622F74F06927CACA436B146c9D24DA57A514F5, lottery amount:1
-user address:0x0CaE615650cff36b4D6cBD6e52dB6F3A969285fa, lottery amount:1
-user address:0x5b63124006840060898F47A21eB82c019289eAB5, lottery amount:1
-user address:0x3D2B5723F2C0ce9A9CA3e6d122eB8f6a9272dBa8, lottery amount:1
-user address:0x2B1b4D9b1d43365fc7460243c81664487d0D940D, lottery amount:1
-user address:0x2e868585B53122E187A64f29fDc37Cbc4e8a4163, lottery amount:1
-user address:0x8Aad7D59B8a03F46d8368Af2EdC3e4578d676863, lottery amount:1
-user address:0x1747aA6eA55b397DcCd3536f665bF7E90De4D031, lottery amount:1
-user address:0x9F66D71DEc03999891c037A244032072927D645c, lottery amount:1
-user address:0x9c5e477a7AceB09EFA683f1a8147b97938445D83, lottery amount:1
-user address:0x1dC24e9601e40013a12CB9976a519860c4eDF359, lottery amount:1
-user address:0x1397424D3A8D1954AF113764EB003999441A2C44, lottery amount:1
-user address:0xeaC8D3821598B6Bd9675695fc878Ad6e0Ef92F57, lottery amount:1
-user address:0x04379CFfC95575CFF92a5884863A26600c0F3ddb, lottery amount:1
-user address:0x9d324fC70E462943ebEe650eEaAE0dE986148EDE, lottery amount:1
-user address:0x87C474a9Eb269899E20946A28A9ae4138eB1caD5, lottery amount:1
-user address:0xfFF2c3Eb421e2667a45a47c749A37800F22E70e8, lottery amount:1
-user address:0x6b8db3f109dccf7Cd536c36137E8bC6860dFaE9a, lottery amount:1
-user address:0x8870C3a7144fA301CD260311AfB7f2319B19CD57, lottery amount:1
-user address:0x17B64570484AAe779d718E727e21A1B05b975Da3, lottery amount:1
-user address:0x8B845fb3b030e238C845b95Ce96F0016bD37D6F9, lottery amount:1
-user address:0x8669D2a4A5C5Ef2c1cB3a0F44C527F9ad73e5d00, lottery amount:1
-user address:0xE5476721db576AD7541389325a03747A8786Aeff, lottery amount:1
-user address:0xf84975C731E88bd46c7017887b66C8e62efCe9A3, lottery amount:1
-user address:0x6E9fdf23c29e5Fa1a49fDfD7C8Be3c9F2e99eAf4, lottery amount:1
-user address:0x793491fe4A7b25EEE0065e484A52C7A0dfd8C0d9, lottery amount:1
-user address:0x206830d8A814652edF6e56bdb3c533930d6C953d, lottery amount:1
-user address:0x44451c8417203cf5ae83053d4f855Cd1700D05f5, lottery amount:1
-user address:0x2f2B7B085B056c9345cd3950AcCCaEEb57Db4f78, lottery amount:1
-user address:0x370603Fc4C1A6d100b0EdAeae29468ae2c23F927, lottery amount:1
-user address:0x06Cacea44227d431FFC18859aE0Bb8fA838ed0dc, lottery amount:1
-user address:0x140BaE15B336482BACc5C56742CA8FFA87e75AfE, lottery amount:1
-user address:0x36A0E8C63E14223492Ff5687B0Db557427b58108, lottery amount:1
-user address:0x27B0FC6C4A5a0Cf213a570097279a5bde61214d2, lottery amount:1
-user address:0xd74eeC932A78233D03Ff03DED4205d05e6f592ec, lottery amount:1
-user address:0x9436a9Cae24d4f6aD52A90F2A4A71C2B8DE15e74, lottery amount:1
+user address:0xe009A8DC43F4Be935f18A997689b431723d109a8, avarger amount: 4219.2388265045484758, lottery amount:10
+user address:0xb0D202791ba6ef2e5e2AAD9dFA7b0Bbc542AB095, avarger amount: 3821.3543727512601622, lottery amount:10
+user address:0x9eC8E8F64EC6bB47d944B4b830130B5fCf2Da182, avarger amount: 2143.6534529757432662, lottery amount:10
+user address:0xFf88531C3EfC13d662A131Fb188d6a1DC8f72378, avarger amount: 1605.3654825873384191, lottery amount:10
+user address:0xc5E259fbc68D9014B23c17F25bd2A5C763A08264, avarger amount: 1482.8860140611893478, lottery amount:10
+user address:0xb2ceb04874FcE4cEfd38C751C8ed7b88D2185c4d, avarger amount: 1115.8467680755314042, lottery amount:10
+user address:0xC4AA614b06310805d6dFd4393402cCb844a4223c, avarger amount: 961.4488603471745126, lottery amount:10
+user address:0xdb97aa9B0C07254Ef9E017641f5da271E5C31f35, avarger amount: 782.8896494640380619, lottery amount:10
+user address:0xb8A7dE41a8D28952a4d253F22C4786C6Cd65122F, avarger amount: 529.5977359165355221, lottery amount:10
+user address:0x0EB4ADD4bA497357546DA7F5D12D39587cA24606, avarger amount: 434.3304080116967597, lottery amount:10
+user address:0x89Ba504E163f7429cBCa7bC4F85BCc32AdAa110B, avarger amount: 376.0456468616399641, lottery amount:10
+user address:0xa6b6fB6a424f4d107fbdd6F3BCA610B568cCB2EA, avarger amount: 307.638761613021145, lottery amount:10
+user address:0xfe568f98dF64e7B49050FfE810D9f78952bb4f92, avarger amount: 306.4869743536795408, lottery amount:10
+user address:0xa788C59880F31d6a9c3511A8064286682b01756b, avarger amount: 302.7133494940837789, lottery amount:10
+user address:0xe67e43b831A541c5Fa40DE52aB0aFbE311514E64, avarger amount: 298.3474719970517608, lottery amount:10
+user address:0x9e2C4933D6228a69149E3011CB1302f3e46a4263, avarger amount: 295.8566624684732959, lottery amount:10
+user address:0xBc87E6A5b4a454B05f6BDf4BB05586b9149C2aA7, avarger amount: 257.0053349847805183, lottery amount:10
+user address:0xB60b2887C7f64ae49EcC939eCB48C985E9358f09, avarger amount: 254.8361650411345249, lottery amount:10
+user address:0x190E7C0403a5DD4bD21d426D88b76b1d513D39B1, avarger amount: 252.4191820597628743, lottery amount:10
+user address:0x96a3ba33255a96634E98D108cc111DDC87376d7a, avarger amount: 247.7804759335247304, lottery amount:10
+user address:0x729Ea64B1393eD633C069aF04b45e1212905b4A9, avarger amount: 247.0564886925484062, lottery amount:10
+user address:0xa9562e29f82abd50f1da6068fAfcc3b5025E522E, avarger amount: 246.5500175478631131, lottery amount:10
+user address:0x8A16718aCa875d59e348B4D276cC5ECBEDe68B22, avarger amount: 244.4714987306624046, lottery amount:10
+user address:0x93e5204E7033483985Bcc94E48283f3359b2be69, avarger amount: 240.5102662308134729, lottery amount:10
+user address:0x40c2541FF113Df5D865C9c7c9a4a2170ca926620, avarger amount: 233.5382262349651949, lottery amount:10
+user address:0x347c5D1CE235F341065390039921621D70639d55, avarger amount: 228.3653021160524182, lottery amount:10
+user address:0x38e65E030B9B7aCf5Fe9072272516C04cC8a8560, avarger amount: 227.4851411776661159, lottery amount:10
+user address:0x83a0Cb9A0bbAAB77d9Fce6857B2D7925B66bD5Ed, avarger amount: 221.8790505190866908, lottery amount:9
+user address:0x5789A38a3FAcfaa86ED950e88D79a9A2F6140052, avarger amount: 218.4921619837202646, lottery amount:9
+user address:0x74f91d657A5E2Dd1F8Bf446180Be84dA3A8c4Fb3, avarger amount: 175.2370420017571875, lottery amount:8
+user address:0xAFa6F70D5d47f7E339B6F33478aAB32646eb09cB, avarger amount: 171.8603284791747116, lottery amount:7
+user address:0xE243436E3d7e070e8E5110E997b11d0c9525896f, avarger amount: 162.5771261918267155, lottery amount:7
+user address:0x9F24dE85F8A687BDe08756EC64E2B74f198Ca9bA, avarger amount: 156.2961085521722064, lottery amount:7
+user address:0x59128ea834e424698Bc45f12c60BeABaB7e51747, avarger amount: 155.9235458297473445, lottery amount:7
+user address:0xe7275240C52FC4316277547655C73C10529D345a, avarger amount: 153.8507456645487775, lottery amount:7
+user address:0xF388623C892785F7f9539CC86611529D8480EA49, avarger amount: 153.0089858474965802, lottery amount:7
+user address:0x6325246e88510D64DBdF10ca77095F06C5cA8735, avarger amount: 149.1862876420250885, lottery amount:6
+user address:0xB1dB096De2A713DBb6950Dff2EaFB76521881863, avarger amount: 124.8744120060243744, lottery amount:5
+user address:0xc58891BE60Cd6218FDBAB29C6B09b3810978A9b6, avarger amount: 124.1659806424918457, lottery amount:5
+user address:0x687672ef80be21e5938abc4Ad3B423687773AF0a, avarger amount: 121.5148056768260965, lottery amount:5
+user address:0x166B6770f7513ee4BE7a88f7C8d250E5E8BCbfAF, avarger amount: 118.6409919974279056, lottery amount:5
+user address:0x3e900021b5CAd91350F082405d24a395A2C0c76F, avarger amount: 113.6151946696527447, lottery amount:5
+user address:0x81aA42257c3eB994e3b2617e08a98cA9dAC3E490, avarger amount: 113.5594735544872527, lottery amount:5
+user address:0xbf49b14a9936d1a6245A43c33BBB50f8648643a0, avarger amount: 108.917763571927036, lottery amount:5
+user address:0x8eaFC7959f0ad0724460c0ed72622cc6762dE485, avarger amount: 101.8225425687528717, lottery amount:5
+user address:0x94566fAe2898502c46ee70970a0869F9565eAeF4, avarger amount: 100.0077612819077574, lottery amount:5
+user address:0x92cfdcEEb276a6Bc2f13B6907CD8E6aC245dD0FE, avarger amount: 97.842653162392093, lottery amount:4
+user address:0xd040bAEb020692D62A0ec7811Fb6BE9B96f9844e, avarger amount: 97.5252965371165352, lottery amount:4
+user address:0x9538E4935E3426e57000b8091fcC0C4DB305B256, avarger amount: 97.0778690192821633, lottery amount:4
+user address:0x8d69A355117c12A74A15d58Bfb1303E6C110d518, avarger amount: 93.8878037425, lottery amount:4
+user address:0x20aa2e39a83225c5d5b16675BE3c542bf7951004, avarger amount: 90.2226405108596594, lottery amount:4
+user address:0xfA2e1Fb7aDB9e78596ad5aF2885F53B645b6C019, avarger amount: 88.7412873732431655, lottery amount:4
+user address:0x88E57C01BeBA95b51006dF6dE835FDec38D370af, avarger amount: 87.984570167630568, lottery amount:4
+user address:0x8d19fb15a0deA5AD84Cd1BAF8890fd3109081b24, avarger amount: 85.9913454331580573, lottery amount:4
+user address:0xA3953352BeAb67861e5a7ffF47f36611A1fF5335, avarger amount: 81.934725741462937, lottery amount:4
+user address:0xba0C9F2D2C7A376Ae8b066576f3615Dc1a4b1ab3, avarger amount: 76.4808564149081585, lottery amount:4
+user address:0x6924d83Ba3cd169E1BCbaE05a13D45C98bbfe3a3, avarger amount: 69.2807010672214291, lottery amount:3
+user address:0x55215A0D2010fCE5c9F76CA9665eF4df430B26A7, avarger amount: 64.7622710714009557, lottery amount:3
+user address:0xC5Fcf3E1c433F6340E8B6f81025EcC5f76Cec080, avarger amount: 64.6592274691259251, lottery amount:3
+user address:0xE7a2B4CBEE97A6f3B26b72dA19a07603B9C9fdC5, avarger amount: 62.6717495762352719, lottery amount:3
+user address:0xfD6231A29661100e9F7E68d37730b040E24caD28, avarger amount: 62.1594621429820584, lottery amount:3
+user address:0x8b992C5C31B86cc3a4993eED51fae9ccA0eb3527, avarger amount: 61.6428993108739172, lottery amount:3
+user address:0x99E6B634217f861fc17Eb52E58c3fc1A554310ca, avarger amount: 59.6673036005780221, lottery amount:3
+user address:0x658D777dADC32b2385655913dAcCcF70E687cCf8, avarger amount: 59.3254101230974698, lottery amount:3
+user address:0x4085e9Fb679dD2f60C2E64afe9533107Fa1c18F2, avarger amount: 55.0156943935616586, lottery amount:3
+user address:0x72C85976d9920615aAa1887D987330d9cAf7295f, avarger amount: 54.7524665742334342, lottery amount:3
+user address:0x25df977E61D7a382A7c2c178815760755d750FBa, avarger amount: 54.5552486979598935, lottery amount:3
+user address:0xe3bdaa9fFC03f8AA3F51168c5205E445ab216F15, avarger amount: 50.4885850526045287, lottery amount:3
+user address:0x3B5f808D796be6EC00dC63638465Bfc36Bd60D90, avarger amount: 50.3472175869405594, lottery amount:3
+user address:0xFCAf5b8babB4864a446671f9b88CB73BAB169BdA, avarger amount: 49.9203401544562275, lottery amount:2
+user address:0xC1ba9285ACBae7dC403153F9E5c2B4108AB5ACdc, avarger amount: 49.5931861266107839, lottery amount:2
+user address:0x0Aa350FB487F75d4f5d6ED920A5ae0923ded06E1, avarger amount: 49.5284749248234637, lottery amount:2
+user address:0xA7758B30e93d2ED6CEA7c85e5B12a1d46F0f091f, avarger amount: 49.3847763439559046, lottery amount:2
+user address:0xB1e46BFdBf636D00238E3E765Da45F6098B8d4F9, avarger amount: 49.2733763011891256, lottery amount:2
+user address:0x95B18b7721eE14714ab9d50f21fD8027D9b96432, avarger amount: 49.2733763011891256, lottery amount:2
+user address:0x6dc7718962eFFddF37b7262Fe27234E3FAF3A8e6, avarger amount: 48.8643910379852962, lottery amount:2
+user address:0x66A8Cdd1d92D1e344463580c27d2Db019ac003Bc, avarger amount: 48.4249461101080207, lottery amount:2
+user address:0x4F34b189dC7859E33cC210C4fe5A52d6fF2C033c, avarger amount: 47.7071750791357991, lottery amount:2
+user address:0x88512CfC901ADB8E17a143310700d6C4BF036F6a, avarger amount: 46.8281978611036796, lottery amount:2
+user address:0x6355255DA118B3B7B3Fb80bA2E345C71dDe22A56, avarger amount: 45.9756769022019018, lottery amount:2
+user address:0x19E408A49d9f5b6CcCA8Bb1B80129f4561027875, avarger amount: 45.408592471524392, lottery amount:2
+user address:0x266E40Cc011197D224a49b7085A994f43Dc4F808, avarger amount: 44.5202289405169013, lottery amount:2
+user address:0xe24759dFF56214433a78ddfcC68aF10f58C8c17B, avarger amount: 44.0483986809263897, lottery amount:2
+user address:0x5876f3B3DEdA7c3A2F992386471823E26b87fF8F, avarger amount: 43.5977283772813351, lottery amount:2
+user address:0xd6B09a68dEF89329dd82b4605a7234641FA41113, avarger amount: 43.3400614939852805, lottery amount:2
+user address:0x3298492EE2689911866EBb01A1774DB060ad6A7C, avarger amount: 43.092666372729766, lottery amount:2
+user address:0x5f27ff119Ebd1578B3466eaee5Fb70ad9514c164, avarger amount: 42.8730690595148653, lottery amount:2
+user address:0x3283b407df806543Cb321Ad9Cb363ECCb33067d5, avarger amount: 42.3723869570842101, lottery amount:2
+user address:0x94384b9D832862243f8ED52658de1f42B8e172b4, avarger amount: 39.6083571098719709, lottery amount:2
+user address:0x6C01ec9622e50799d62ca076F2e2aa34DC840D5B, avarger amount: 38.3914938624448626, lottery amount:2
+user address:0x5c9d09716404556646B0B4567Cb4621C18581f94, avarger amount: 38.3914938624448626, lottery amount:2
+user address:0xBd1B3513Bb0Ce1529242Cfb28926618809592362, avarger amount: 37.503145555078024, lottery amount:2
+user address:0x3531386bADa1AC1D9c36Bb9364305e43f2Ac87D7, avarger amount: 37.0046353827880912, lottery amount:2
+user address:0xA25794684Ad0a83c35E64787d605eb21b593c5ee, avarger amount: 36.9996809160329136, lottery amount:2
+user address:0x094b57E48ac689C542eD8732D35641ff733237f7, avarger amount: 36.9395285244559793, lottery amount:2
+user address:0x2C6EFf3cCd4dD62DD857944087B6BCdD69ec2018, avarger amount: 36.71896708111505, lottery amount:2
+user address:0x699990A8e7ada9E92C932D6e8fb365024fC74b43, avarger amount: 36.5181524554292192, lottery amount:2
+user address:0x1D991eb990040F79557A3aBc3B899F81c5bdB19F, avarger amount: 36.4825292534444125, lottery amount:2
+user address:0x10534D4e612071E6B6480C498dd8BDB8f51b9ed7, avarger amount: 36.0521879669200141, lottery amount:2
+user address:0x951b7c7d65636DA3971eCa0eb119ecd26230B5dD, avarger amount: 34.8748117649984107, lottery amount:2
+user address:0x9c766c2afc9C9Db4371885aEE8027eab262A1F0d, avarger amount: 34.2101448305234708, lottery amount:2
+user address:0x565c2AC754766ed30890226e70d05400FB3D404a, avarger amount: 33.77231528745201, lottery amount:2
+user address:0x2b5cc85313A115D5fA38d5E549B6aeca7669Ec7D, avarger amount: 33.3444629959869245, lottery amount:2
+user address:0x024E4FB5632cd32499ce60Fe5D892F202E1840C6, avarger amount: 33.3427747778221111, lottery amount:2
+user address:0x91b4ADe96e8d0eEfdf2a57cef161D13DC633E0d7, avarger amount: 33.2202705296652129, lottery amount:2
+user address:0x336d4aFD4c1e0B82a2Bb38859C234c54eDF0a983, avarger amount: 33.1443275128187278, lottery amount:2
+user address:0x4e12eB25d526d808AF8b503BE3F30e0c7aE49f4c, avarger amount: 32.9118104140281703, lottery amount:2
+user address:0x2e7F4121D3b6FA85BC59aF13d2308EdF05aC3966, avarger amount: 32.3498402605635934, lottery amount:2
+user address:0x432FCd67815D5cC72808A7815a02373FDEE7d740, avarger amount: 32.0096210491609224, lottery amount:2
+user address:0xF07A7E8302cDe616f233fCa4fF8aC3701D58faae, avarger amount: 31.8762002100850904, lottery amount:2
+user address:0x178255e4B37492240A4b4D198Adb1ffEd6d71E16, avarger amount: 31.6149895272335664, lottery amount:2
+user address:0x677AcC5a6E63EB12bFf0353e5d4BE7437e983662, avarger amount: 31.6117832730531423, lottery amount:2
+user address:0x9554A1Cf07a20616778821Db521bAaCaa79a6631, avarger amount: 30.8305059087743963, lottery amount:2
+user address:0x95A64C8F0340fB22722142BA5430A20Fcbea4A8f, avarger amount: 30.0012557867612763, lottery amount:2
+user address:0xE8E61Db7918bD88E5ff764Ad5393e87D7AaEf9aD, avarger amount: 29.6574664708397181, lottery amount:2
+user address:0xf098e7F0e2e2c5F45B90824a78BE884aE8102C30, avarger amount: 29.5972900067056475, lottery amount:2
+user address:0x34E10Be3bB361376e89c548f9eDE2832000a8BC8, avarger amount: 28.4521239202189476, lottery amount:2
+user address:0x0079CE80043EDc3325598e4A3b6293ab779bf174, avarger amount: 28.3926627800916265, lottery amount:2
+user address:0xC7EF24CeD7F766bc5f502BcD3bf20c81eb2fB644, avarger amount: 27.4210236166859053, lottery amount:2
+user address:0xEdb46071e2519472022995f9dE4d24c4CfDde002, avarger amount: 27.2204548273350598, lottery amount:2
+user address:0x108cAbA6aB68eA4b177618eFcDdc4c06e52122BF, avarger amount: 27.0655627896977701, lottery amount:2
+user address:0xb75CAAcc1d36f81726237E356aD0C62526591844, avarger amount: 26.5946695866191227, lottery amount:2
+user address:0x562BF1B67Dc40d9b7C3ddd49E45aE58e61E1B76E, avarger amount: 26.3418594338881277, lottery amount:2
+user address:0xf87F7704aCDdA6B02d3f7d16bbF62cb42330fCD5, avarger amount: 26.2916710916277068, lottery amount:2
+user address:0x8c16C8FE98a50B515cF8268090bcB8886B241908, avarger amount: 26.1804424476151906, lottery amount:2
+user address:0xFF389e55ee4dD64D82B2b6FefEF3F7aA63B218fD, avarger amount: 25.7721373042792923, lottery amount:2
+user address:0x73A651063F7E3169624c05d76F728D489a97dCD4, avarger amount: 25.7699124224260147, lottery amount:2
+user address:0x4d883824258f7253101f266a23207DCb2Dd45768, avarger amount: 25.7523049197598268, lottery amount:2
+user address:0x0952ecc0080Ed9A0cBD5839a3CC6758b85C3a835, avarger amount: 25.7037280102754934, lottery amount:2
+user address:0x7D75D895241813B6283f92EBA762a50eAF3244f0, avarger amount: 25.3580849613391573, lottery amount:2
+user address:0x5369CC705E8356085eEC5fA48bfeA9D91F8e5d5D, avarger amount: 25.2840702656395837, lottery amount:2
+user address:0xEDc05702ccd99f28834491f4e11b2ee81D6d889c, avarger amount: 25.1593379904206826, lottery amount:2
+user address:0x2BB7Ce5f7750E6e21445243Effd48200cBb63E49, avarger amount: 25.1440519492046457, lottery amount:2
+user address:0xa275179da5C9C5F87C7497CBe3b70AaF2878a421, avarger amount: 25.1152977343373977, lottery amount:2
+user address:0xf17441352d36a537c36dB7782B7f08651fbBD86F, avarger amount: 24.9300976384047443, lottery amount:1
+user address:0x3cEB1C50cB01A304b8544cb9B13E427D08b288c7, avarger amount: 24.4865245621826651, lottery amount:1
+user address:0xc014Af9fAD3C2A594bc47012262F6864921de5B5, avarger amount: 24.1945033417811527, lottery amount:1
+user address:0x71fACC1A6489f97FA9ce5Dba51a546e0cd1eE92E, avarger amount: 23.8666172108149927, lottery amount:1
+user address:0x1E7436d46184c748565A36130970222f298DbDB7, avarger amount: 23.7183589840917673, lottery amount:1
+user address:0xdaef4F083631fEBaC8A7628E173ED1a77761bCBb, avarger amount: 23.5501944647227215, lottery amount:1
+user address:0xBFE99Ce9D2A2f3680fe22F1a38FA2Efd5F955D4b, avarger amount: 23.1788600678604425, lottery amount:1
+user address:0x24af0150B7A7Cb2e934f1C6531c751E08863ee9E, avarger amount: 23.0486997195910933, lottery amount:1
+user address:0x16e341883cc8B9233cf3F55d3c808C9E82ea9eBB, avarger amount: 22.9937887204627413, lottery amount:1
+user address:0x2A6Be69cd729288006f831737D5032f15626d52c, avarger amount: 21.7485042379860503, lottery amount:1
+user address:0x67E8a61859fC7AEcD5660B962F0b49fCa7FA0e89, avarger amount: 21.5709743823340839, lottery amount:1
+user address:0x1A90C9dA4c3e3DD7eadA67D6a09C4828417D4aCa, avarger amount: 20.8329616647291458, lottery amount:1
+user address:0x47439eE571A136fc3D38a394ebfeDC966f8d491d, avarger amount: 20.7557522349042122, lottery amount:1
+user address:0xb19367DcbC2b0561c1f9cAf4E40F083bd64e1b2c, avarger amount: 20.21751253, lottery amount:1
+user address:0x893B91352f717f8d0a633A4C9BA5D190B86ccA43, avarger amount: 20.0462749405286267, lottery amount:1
+user address:0x24E9FB39C5F69a9DFC6558A3Df26468731Cd76C1, avarger amount: 19.8393058914374075, lottery amount:1
+user address:0xC15B2336797a5A7F3110453598462FbaF4205AB6, avarger amount: 19.8177575704682894, lottery amount:1
+user address:0xeC32D8B0bcd1d1cA134767F9f8a5871c8D373475, avarger amount: 19.8059684548692322, lottery amount:1
+user address:0x1236e900B3164ABe9e2E4096FeA9FE5559320847, avarger amount: 19.6711707230538541, lottery amount:1
+user address:0xd91ceE8353074a35895c9Cb78833c90Abd3e8665, avarger amount: 19.4963148146039264, lottery amount:1
+user address:0x088f33F44C2DAf3C084918eECB1E8058E79DD1bC, avarger amount: 19.2623784920702617, lottery amount:1
+user address:0x1A79E2ac1f4F79d85afca3f91b88a84CDF443Fc6, avarger amount: 19.0618698514706156, lottery amount:1
+user address:0x24D768d1fFadea536f293354553d360c7E16a8E0, avarger amount: 18.9985730245454032, lottery amount:1
+user address:0xFB643E874D12314d02f5949D95a9dd9F87A4a86C, avarger amount: 17.7608476967118189, lottery amount:1
+user address:0x5d5Cf7048Ad860Fca823950184bc2a68DbB4f9C9, avarger amount: 17.4049729658634405, lottery amount:1
+user address:0xc7c1bBA80eb8d6822FD7f733631DBDD03FFE4B60, avarger amount: 17.2674908162476017, lottery amount:1
+user address:0x353a527997F845293A25A2ef0920C0Dd22e1F511, avarger amount: 17.2569644443233975, lottery amount:1
+user address:0x797CcC1E88dD635c1df3f953602D34F94C684951, avarger amount: 17.1674532139123849, lottery amount:1
+user address:0x9b4c436F40e7fbae7bAD8B7547A2E8652c71B6c5, avarger amount: 17.0965091227302251, lottery amount:1
+user address:0xdd62d76d44c520EA82fe7E503994354e59672180, avarger amount: 16.5695380899926463, lottery amount:1
+user address:0xeE98BaE37E148CFA9657aE410a530D31530758a7, avarger amount: 16.3220069596939516, lottery amount:1
+user address:0x342aA41f52261D354d5AA71bfbCf30a17Fbc05ad, avarger amount: 16.2168255513876789, lottery amount:1
+user address:0xeE7164C2A20CA710433E6e9c68B33C6549fd91d7, avarger amount: 15.8646041094823236, lottery amount:1
+user address:0xAF842Ccb244C41B6e6FE5DF1D96d5CbC679E52D7, avarger amount: 15.6777821990480804, lottery amount:1
+user address:0xa42cf12859dD2Bf5832C1A8D7dA1B27b0F2c795d, avarger amount: 15.57488265361724, lottery amount:1
+user address:0x96789ACD511c1be8EA6D958C147759292E6bC099, avarger amount: 15.3794826218294267, lottery amount:1
+user address:0x478bb542f7658d635ABBA67edB987806DFF5b83d, avarger amount: 15.3316955274247151, lottery amount:1
+user address:0x71541A65789E5760704DF98Ad2C6a4ca8a71C80e, avarger amount: 15.0215916262145087, lottery amount:1
+user address:0xaee2Ae13EBf81d38df5a9Ed7013E80EA3f72e39b, avarger amount: 14.9942224118745688, lottery amount:1
+user address:0x3deA93138a1A73500C4A773037b893D9A04Ad0E7, avarger amount: 14.7342607790856637, lottery amount:1
+user address:0x19527a176a9634ef8b83e25bC0FDD90533E0A966, avarger amount: 14.6842602874324264, lottery amount:1
+user address:0xCcd2B26Bc1bDB18eBFFF2988761B6B8410B47104, avarger amount: 14.6835124866814792, lottery amount:1
+user address:0xd7fB451a7EB452c6679552c636f2b242426CAe7A, avarger amount: 14.4595132889031196, lottery amount:1
+user address:0xD8CCcbb18125DAE44f75b07F844E16b692E812F2, avarger amount: 14.3185116370484627, lottery amount:1
+user address:0xF67184055e31748f3445C5A78B2650Dc513Bc029, avarger amount: 13.9180621167987897, lottery amount:1
+user address:0x3084e2D8cbdff6bBafC8365c3690e89AA32271fB, avarger amount: 13.7313683334408357, lottery amount:1
+user address:0x176F4c285A6a05504A46eE861843511574471654, avarger amount: 13.6693828383270098, lottery amount:1
+user address:0xB47a3f0b0ac397ae420e7CDA42EF22b0FFff3A26, avarger amount: 13.5167143239869331, lottery amount:1
+user address:0x68cDa07cbCAC03FfdC90b17c75d1e4d94D4394A3, avarger amount: 13.3511255713997074, lottery amount:1
+user address:0x5a4Db3F86C8eeF6030418598188E29CEa86025d1, avarger amount: 13.3081740625812754, lottery amount:1
+user address:0x1eC3Bc15D4F6c435948F7007d640CF208F34762F, avarger amount: 13.029736554765598, lottery amount:1
+user address:0x9B6131eAE892dE5C96DDD3Af52c74359Cb99596e, avarger amount: 12.9920799891253757, lottery amount:1
+user address:0xA583A3B17c8C36C902A441ddE105499661a7e908, avarger amount: 12.8795427901811161, lottery amount:1
+user address:0xCa40E883BF3d614E5e0971d2C3c68eca9F22aBcE, avarger amount: 12.8486166386885711, lottery amount:1
+user address:0x33F5200377b345630Bd99E7bD9c746E46266Fc6A, avarger amount: 12.7063377848431602, lottery amount:1
+user address:0x78343d9b213B27b97a6ca27B284E8A9e8a93fAf2, avarger amount: 12.606344246021029, lottery amount:1
+user address:0xA4B2D9E832a80B1125f9C3fc4a4F240ae8fA5804, avarger amount: 12.4774931231666485, lottery amount:1
+user address:0x43951C6bd7396F7EAd4c4f6958fa9ef6d8f57300, avarger amount: 12.349196190265897, lottery amount:1
+user address:0x48805B820837F9dCa575e92Aa662A1cdF589ee8b, avarger amount: 12.3242252927133296, lottery amount:1
+user address:0xD028BaBBdC15949aAA35587f95F9E96c7d49417D, avarger amount: 11.8067828865251919, lottery amount:1
+user address:0x361d4Da8936c19100cc7643FAefbad2632F7e321, avarger amount: 11.6952352708853854, lottery amount:1
+user address:0xd507D4Af71088BAfbf2eA0CdB6962694F850DE01, avarger amount: 11.5454351286149615, lottery amount:1
+user address:0x45988c3d7A4Ba9B93A0FeF23476ad689Df7Eddb0, avarger amount: 11.4077330957148739, lottery amount:1
+user address:0xdbD62b8115f0C4065cE4eEB77d9296cB7bFC3913, avarger amount: 11.0977710082550046, lottery amount:1
+user address:0x0C111c473bD87Bf696791119a27808538A122Bf6, avarger amount: 11.0545696277009654, lottery amount:1
+user address:0xA74EB9340F4C25cD27dfA0e99cE70aCe3A8CC9d3, avarger amount: 11.0204195191391958, lottery amount:1
+user address:0x14484Be0F09838e614e13dA949c67604deF5fD4e, avarger amount: 11.0168206088418946, lottery amount:1
+user address:0x53ea7752746BC0F38b34C085E46194b2C8487BF5, avarger amount: 10.891188437857221, lottery amount:1
+user address:0x239e4EC9f4ee28884B727F93AB3feA188E681053, avarger amount: 10.8721972258378652, lottery amount:1
+user address:0x755c72635644dA821FE915118dEFC2ACD8b87Cd8, avarger amount: 10.8530477605736278, lottery amount:1
+user address:0xCb202dF396B295c3B716988CE67d91afc17Ec689, avarger amount: 10.8399277749142708, lottery amount:1
+user address:0x905F9BAA2332c8A3399D77D6A0BD094e9B11d9F0, avarger amount: 10.790892386284578, lottery amount:1
+user address:0x8214E4Ab4Fd9212b7e14d97cC0bbA6B9F4C37FEB, avarger amount: 10.7795334275775335, lottery amount:1
+user address:0x2759321Df4C0f0475c41BBf9d17891bd42E32C3c, avarger amount: 10.7551627118790988, lottery amount:1
+user address:0x65D94166e9a29CE5D7C57E5E1ff8Ff3B671Aa5bA, avarger amount: 10.548669916326986, lottery amount:1
+user address:0x2d413cc037773F5234C2D270F25d01d5DF993A5E, avarger amount: 10.3310493056097478, lottery amount:1
+user address:0xFa63E6A53c6C93A0c8Dd4fE57ebe088EC4aEaBbD, avarger amount: 10.3297966298952767, lottery amount:1
+user address:0x14636bcEd44f474BC78733beef874384f8770115, avarger amount: 10.3056317121135752, lottery amount:1
+user address:0x8308244C8E5b70E3f237E699551C3648a8F798f4, avarger amount: 10.0373054644715434, lottery amount:1
+user address:0x12670A2Cf547C47f3C8Cf9cAD5AEf114555B9be7, avarger amount: 10.0259859872016448, lottery amount:1
+user address:0x09c0e7D6C97b942a06361Bed21a1f4224d7988F5, avarger amount: 9.9818385815796953, lottery amount:1
+user address:0xA9f6764a61E43689F79a5d033a8E09fcB90FCd28, avarger amount: 9.9525283568281813, lottery amount:1
+user address:0x7994fC4A94dD012d9D5dE7d4894cFbC5a62A8d3f, avarger amount: 9.9187398471951192, lottery amount:1
+user address:0x50F12c8A1b104e86EA6c1da79Fb5e1e46F088D5c, avarger amount: 9.879539658838395, lottery amount:1
+user address:0x2D52F7BaE61912f7217351443eA8a226996a3Def, avarger amount: 9.8682080754309653, lottery amount:1
+user address:0x0989B6552398c658ce762B8E6Df24F5036284b68, avarger amount: 9.860728868238343, lottery amount:1
+user address:0xb503C35D4D7f5C73bAC02e2b446085993c502eD9, avarger amount: 9.8601430414714628, lottery amount:1
+user address:0x8B065A3e6a1816b6B7eA2E76F109C4490a26F482, avarger amount: 9.8594858070175673, lottery amount:1
+user address:0x2AE829024B799046152e39FA6BB45A38B3D8b130, avarger amount: 9.8080147238914437, lottery amount:1
+user address:0xEf52f55116BADd0B2f00af07421F6d57Bbb98F22, avarger amount: 9.7525211923034997, lottery amount:1
+user address:0xEE4aa56D4D6eFB7b560037b288765d9c1ac0396d, avarger amount: 9.750692077240147, lottery amount:1
+user address:0xFE4B04ADe5478F3B649614221CDCc43EE31fA27e, avarger amount: 9.7443778340424145, lottery amount:1
+user address:0x0d68cF3fe032449B6E01DA8DA2862393E9170D30, avarger amount: 9.663766225323842, lottery amount:1
+user address:0xdeA3c06EEe614bF84e74d505173822236c8Ad135, avarger amount: 9.3261359459610302, lottery amount:1
+user address:0x7c1C3C0D538736128E1EC9De82E4DA9e7dc94A75, avarger amount: 9.3060724541770813, lottery amount:1
+user address:0xa1d0B3B360595A82dbAAC1667535579bC568F8DD, avarger amount: 9.28061763125, lottery amount:1
+user address:0xe1f91955016fe6a240dE834Addd26c33a8b2250f, avarger amount: 9.1895014607390354, lottery amount:1
+user address:0x9Ab30e5206df3f80B670187D7788eB1De2a1DbeF, avarger amount: 9.066131323300169, lottery amount:1
+user address:0xAc8C73e499f337E9b5d4F6055B1fB20F1d588191, avarger amount: 9.0521511477282348, lottery amount:1
+user address:0xF4875Ec545c17819a277E3E002aA45A139354819, avarger amount: 9.0092333195104335, lottery amount:1
+user address:0x05426906d7564DB9e9267FDdfeD28d844E81940A, avarger amount: 8.9741548257416458, lottery amount:1
+user address:0xb38307818d1357Db41B33Cc8340D3AD9ED0C35Ce, avarger amount: 8.9261080423843706, lottery amount:1
+user address:0x9B365Dc77FD0a7B43fbeEEAf8DFaBD5Bf3CfCF8E, avarger amount: 8.9112380254477883, lottery amount:1
+user address:0xee66AB3B98e9BA86D8cFCDB653EF55b741E9C230, avarger amount: 8.9014274001842303, lottery amount:1
+user address:0x77B4c9590c486B0b8D32D526A7dEB7C6364bD9BB, avarger amount: 8.8839720323742415, lottery amount:1
+user address:0x32bd15ab5031Ae10CF434Cb4C962630466F36175, avarger amount: 8.8536639206796153, lottery amount:1
+user address:0x945728797887fDEbc2d2Df277B5b506A43d6435D, avarger amount: 8.6491357879119271, lottery amount:1
+user address:0x83f7Bb017b0Ce378dBfbDcB8aeB38173021d9c74, avarger amount: 8.6277815955302613, lottery amount:1
+user address:0x276FFb8af57DA846480F14fCdAf3912CDDC5b07f, avarger amount: 8.6260624097625161, lottery amount:1
+user address:0x18622F74F06927CACA436B146c9D24DA57A514F5, avarger amount: 8.5808168768500058, lottery amount:1
+user address:0x3D2B5723F2C0ce9A9CA3e6d122eB8f6a9272dBa8, avarger amount: 8.4809875602914214, lottery amount:1
+user address:0xaC58Aa71114E895AC395cdD0E3391d3eCFFB6fbc, avarger amount: 8.420605685575526, lottery amount:1
+user address:0x40Db8365d1252bcb06598927698238a99D39228E, avarger amount: 8.3832489328259238, lottery amount:1
+user address:0xA04320b5371Af4D44a7249B468cEd73cE9A08538, avarger amount: 8.3758596707750354, lottery amount:1
+user address:0xd0BEa4159cf6466472Eb1271908358943328112e, avarger amount: 8.3622863225972422, lottery amount:1
+user address:0x2e868585B53122E187A64f29fDc37Cbc4e8a4163, avarger amount: 8.3516429637161948, lottery amount:1
+user address:0x7ce5215a0831952B1d0587eE40DF1BF360e0a554, avarger amount: 8.341644948327938, lottery amount:1
+user address:0x10C38452B23C94f9528Ce3527bd0a73D845d0cE9, avarger amount: 8.2792389168095534, lottery amount:1
+user address:0xf9Ebb27f0d246a63AC7F42C56b980a1241Ae130B, avarger amount: 8.1412108159406672, lottery amount:1
+user address:0x5edF9E83a4755E20413fdaCf3f5309F945cfBc92, avarger amount: 8.0638077931418309, lottery amount:1
+user address:0x9729334ADD4fE99D116E689Ba11EC34e6C214A72, avarger amount: 8.0300994789315063, lottery amount:1
+user address:0x7770C101f146D479F85466E5BA3c16a131d08AB5, avarger amount: 7.8955580174288271, lottery amount:1
+user address:0x28e5d92148aA12b0fCcd268ff643bE86Bbb5265e, avarger amount: 7.8920092110812092, lottery amount:1
+user address:0x6a98342BC52B17398C2e500B46178F6E9Cf49488, avarger amount: 7.7641086387497359, lottery amount:1
+user address:0x46a4E8a1F64a9D2aE94d6E16a50106Ece6ED92c7, avarger amount: 7.6157792425266041, lottery amount:1
+user address:0xeaC8D3821598B6Bd9675695fc878Ad6e0Ef92F57, avarger amount: 7.578705531461461, lottery amount:1
+user address:0x140BaE15B336482BACc5C56742CA8FFA87e75AfE, avarger amount: 7.5154358256695314, lottery amount:1
+user address:0x36A0E8C63E14223492Ff5687B0Db557427b58108, avarger amount: 7.509683625634069, lottery amount:1
+user address:0x1005e511f3430117aE6a538d48Bd2409401ad6a0, avarger amount: 7.4892625483507277, lottery amount:1
+user address:0x970B206F3bFb86f06581BBEC04DD2e703266fE84, avarger amount: 7.4378706841988029, lottery amount:1
+user address:0x031543014965F071bc5283D4f74AAF615F15D510, avarger amount: 7.3969935951626266, lottery amount:1
+user address:0x124a140C07b0E18c338cA68be7572296A801Db5d, avarger amount: 7.3873904191951934, lottery amount:1
+user address:0xc4Ed448E7D7bdD954e943954459017BE63584F69, avarger amount: 7.3655895906734648, lottery amount:1
+user address:0xd7A12814E14c99bbdbBB11f3E274a46eeB68881d, avarger amount: 7.3179068006681163, lottery amount:1
+user address:0x5241aa99a776866296D1d695C02bB2E31B3Ff998, avarger amount: 7.2031221340337219, lottery amount:1
+user address:0x1dC24e9601e40013a12CB9976a519860c4eDF359, avarger amount: 7.1675278791141599, lottery amount:1
+user address:0x48812165fda89043126Bd3Dd4BdBc1C8316d4550, avarger amount: 7.0877306881802589, lottery amount:1
+user address:0x9760f469e5D62CA69444B775e561EFDa2bb7Fd5b, avarger amount: 7.063400647994383, lottery amount:1
+user address:0x83587dfc8Cdafb76aB892a939cD329ACeb751b1d, avarger amount: 6.9498350651089447, lottery amount:1
+user address:0x2a742Ea8818CACcD365f8891C97E58d520371C2C, avarger amount: 6.9225218372035525, lottery amount:1
+user address:0xcfb863210Cb4e071ebAF9E79A943b890Cd8561a6, avarger amount: 6.9200755098626009, lottery amount:1
+user address:0x1bDd774E92980646Bf46c4F21ddade4eF90085Fa, avarger amount: 6.9152178469505993, lottery amount:1
+user address:0xf452E738E496BF08d8F96A875Da712dFbCA7Af36, avarger amount: 6.9083572321215512, lottery amount:1
+user address:0x4eBBbFF7E4FB62CD751c9402d10a67Fd763eF825, avarger amount: 6.7848182194787045, lottery amount:1
+user address:0x27B0FC6C4A5a0Cf213a570097279a5bde61214d2, avarger amount: 6.7635986079694421, lottery amount:1
+user address:0xE02720bA5e8c81932E986AA8cd95f016E6f4E13C, avarger amount: 6.7576888359645728, lottery amount:1
+user address:0x53F5BF4e9F9FC8eBD715876454B82d148Eb24a4A, avarger amount: 6.6955517960338489, lottery amount:1
+user address:0x35668F1096708A2ce1bAB8bEcdEFceb502aD1D19, avarger amount: 6.6869620187751433, lottery amount:1
+user address:0x5f198fe05A0dCABc31490e02836F7265CAa9a060, avarger amount: 6.6325894291999342, lottery amount:1
+user address:0x94953df305Cb2A81F32343d0cc15D79E22E2c5D1, avarger amount: 6.589446263724429, lottery amount:1
+user address:0x2D90eA46080DeEE922A0D0994330e3da68F62C24, avarger amount: 6.5072606326315944, lottery amount:1
+user address:0x8e5aca0D1104AB1a1F423dB05BD254E837078Da4, avarger amount: 6.4958375832336137, lottery amount:1
+user address:0x14267bCBAD45C65A4c803469841844Aafc4C0E9F, avarger amount: 6.4355769493416483, lottery amount:1
+user address:0xF53c20708E9Dbc2fb6798Cd8A6F78DA4df4d6F78, avarger amount: 6.4237818028699611, lottery amount:1
+user address:0x0edEFA91e99da1eDDD1372c1743A63B1595fC413, avarger amount: 6.293917609586499, lottery amount:1
+user address:0x0CaE615650cff36b4D6cBD6e52dB6F3A969285fa, avarger amount: 6.2349298337149345, lottery amount:1
+user address:0x3a8475547B8c51aB55B1C936df0dF69307AD1128, avarger amount: 6.1621262295714772, lottery amount:1
+user address:0xEd09c53f4c6EE0adDf39cD40FF8f236810bAc7DD, avarger amount: 6.1405340613900675, lottery amount:1
+user address:0xF84Bfa23C2ab766c47056011b26E2D12ade5C754, avarger amount: 6.1254909556491577, lottery amount:1
+user address:0x23baEeC99c8C9BE9496FD6006a5dA6dfA0705e03, avarger amount: 6.0847334613835438, lottery amount:1
+user address:0xC20197945F73309a6C520b0De411e14c15d4bb43, avarger amount: 5.9892358999566492, lottery amount:1
+user address:0xf3196B09648f0Ff56F31f52601Bf37AaEF6f875F, avarger amount: 5.9837989702477543, lottery amount:1
+user address:0x0284b0aC275F843397d1Dba9A012652D1A29EeB6, avarger amount: 5.9628803392972098, lottery amount:1
+user address:0x871DBc800563f03bC58a88f699a6b28B7d33BFB7, avarger amount: 5.9498031862782953, lottery amount:1
+user address:0x2B1b4D9b1d43365fc7460243c81664487d0D940D, avarger amount: 5.9490224902908489, lottery amount:1
+user address:0x9aF906c01f75154dd3402dfa441C7a4251C3201F, avarger amount: 5.9320134922361114, lottery amount:1
+user address:0xB0ad64FBB0694c22cfB6E95374DF0e70bc9713a3, avarger amount: 5.9319479717558003, lottery amount:1
+user address:0x7fDF77E88CbE0815fe6c8F32Cc2C24D81678BD07, avarger amount: 5.9273295831005137, lottery amount:1
+user address:0x6C4E5CE0fF38415125E725F7f1C8c8a16fE569e7, avarger amount: 5.9247894091239, lottery amount:1
+user address:0x87Da53dFA4c54e6ebF667866Bbca4d7D91685eF8, avarger amount: 5.9178153093110015, lottery amount:1
+user address:0xac61b7D3a5D9805EC7Ee0F32ce0bacB3C34f8AA3, avarger amount: 5.9161020737717577, lottery amount:1
+user address:0x9faccc6E984c47d2E6ac9bBba6C65f3c65a2952F, avarger amount: 5.8891403977943767, lottery amount:1
+user address:0x3D127774339A9db809a0beA58526B1C00a744ebD, avarger amount: 5.8809788693735859, lottery amount:1
+user address:0x5b63124006840060898F47A21eB82c019289eAB5, avarger amount: 5.8756913438308283, lottery amount:1
+user address:0xd35C25aeD356844572BbBfC02B2cc7D760541CD3, avarger amount: 5.8642054237858461, lottery amount:1
+user address:0xd206d50564b39c1128eD39Ea900C30328a4A284F, avarger amount: 5.8568464295682655, lottery amount:1
+user address:0x87C474a9Eb269899E20946A28A9ae4138eB1caD5, avarger amount: 5.8522307960173636, lottery amount:1
+user address:0xc2163626675Ee9162CD68AAdBcc28D797F3966aF, avarger amount: 5.8408915488295375, lottery amount:1
+user address:0x1EEB4AC12a8F599Efde7685b5F19B0062d519592, avarger amount: 5.8353423199281484, lottery amount:1
+user address:0xcF2d6767181BA8930c127A00d655196393845b86, avarger amount: 5.8146390517368156, lottery amount:1
+user address:0x163D873baD5047154B2e6cdA4Fa13c8D03a171e2, avarger amount: 5.7503224567465567, lottery amount:1
+user address:0x1598432d904E073cd17A17420227Ad2A078a26eb, avarger amount: 5.7418877734503742, lottery amount:1
+user address:0xf7fe08b81Cf8121e7d79D2D4D56F8b37537B4B20, avarger amount: 5.6981442919614883, lottery amount:1
+user address:0xd769c6ABabF1c6e61846F2eca967AB29bfa727c0, avarger amount: 5.6291947168870898, lottery amount:1
+user address:0x1BAf386465ff1feAEC967df2b3E2B6af223dc7a2, avarger amount: 5.599258034267527, lottery amount:1
+user address:0xb39D077A580d3d318C80fc3FFe23732683a575Ca, avarger amount: 5.5868720870647416, lottery amount:1
+user address:0x48952e56D5C72735F1816969f9bc014CC8b18433, avarger amount: 5.5709658744487078, lottery amount:1
+user address:0x8Aad7D59B8a03F46d8368Af2EdC3e4578d676863, avarger amount: 5.570177855976339, lottery amount:1
+user address:0x6b8db3f109dccf7Cd536c36137E8bC6860dFaE9a, avarger amount: 5.5653195543015284, lottery amount:1
+user address:0x8870C3a7144fA301CD260311AfB7f2319B19CD57, avarger amount: 5.5228229180194769, lottery amount:1
+user address:0xd56EE5Ba5A52e15f309108BDd6247C69B4F624C2, avarger amount: 5.4998570162291499, lottery amount:1
+user address:0x9436a9Cae24d4f6aD52A90F2A4A71C2B8DE15e74, avarger amount: 5.4569618348517414, lottery amount:1
+user address:0x032156C88a70552c6489fA7D9b911A3a31D1c061, avarger amount: 5.4495904619934378, lottery amount:1
+user address:0xBb92672d2a718Add81545aC41aB3a6Ac39AE4d7d, avarger amount: 5.4192053239715859, lottery amount:1
+user address:0xe6f38Bf6330211e81Db0a13B303C4a660c637888, avarger amount: 5.4184914555793671, lottery amount:1
+user address:0x1747aA6eA55b397DcCd3536f665bF7E90De4D031, avarger amount: 5.3798643342672876, lottery amount:1
+user address:0xb33d01dD954888Ae2FdA24403e64b2e1daD84DFF, avarger amount: 5.3748011344587402, lottery amount:1
+user address:0x5573c71aB414986A9bea18e8B6096cFd54934f78, avarger amount: 5.3625176011776989, lottery amount:1
+user address:0x9F66D71DEc03999891c037A244032072927D645c, avarger amount: 5.3554345689578041, lottery amount:1
+user address:0x62e01ccb9e8ab241F5DeC40E9704DF64c0e65414, avarger amount: 5.338916453259253, lottery amount:1
+user address:0x6dB8729A311BA4465340E1a5436193DBd6dd92a4, avarger amount: 5.3317889220590888, lottery amount:1
+user address:0x2867e95B56f22442D43750132538D1aB4A0435D5, avarger amount: 5.3206407847470004, lottery amount:1
+user address:0xE6E9F19eB9Ab7AC412917c4E3E2268C7ecA524fe, avarger amount: 5.2965401039652395, lottery amount:1
+user address:0x672824e59Ccf5eE82ddF0E9F2404dC95F47Be9a2, avarger amount: 5.2906474510236766, lottery amount:1
+user address:0x89A3339913d609310185EFa8e2F2665817c66137, avarger amount: 5.2880696913355931, lottery amount:1
+user address:0x5A0E1813cf575216f07e0384f646f564476Ee7B1, avarger amount: 5.2805779290008848, lottery amount:1
+user address:0x322051ED76f24782640FED50Fe5C9C3b345B3019, avarger amount: 5.2511375289517184, lottery amount:1
+user address:0x1397424D3A8D1954AF113764EB003999441A2C44, avarger amount: 5.2367105490133599, lottery amount:1
+user address:0x0F71cA78EFa7bc202EcB5d2BB10125F41c7a1911, avarger amount: 5.2244477522168762, lottery amount:1
+user address:0x8cD3Bb4FbfDfEE013AF5AC9C46F0C22746b095af, avarger amount: 5.1868415358273533, lottery amount:1
+user address:0x5605acf8398d1dAdcda8beC8aECaBD08729bCd95, avarger amount: 5.1779228985012648, lottery amount:1
+user address:0xc0f718BDb5B7A522d5f2d9d68A957a362a4F1528, avarger amount: 5.1752659977932055, lottery amount:1
+user address:0xc51B69974D372fF89640A1e56Dd9cAbcB1C27027, avarger amount: 5.1744152638866028, lottery amount:1
+user address:0x04379CFfC95575CFF92a5884863A26600c0F3ddb, avarger amount: 5.1571016300045769, lottery amount:1
+user address:0xd8999DC10C491A955f7ECB2f435B613955307193, avarger amount: 5.143209889441161, lottery amount:1
+user address:0x3B82DB62940fFb4d42fafcdD7b4CbEF36334976b, avarger amount: 5.127069736909789, lottery amount:1
+user address:0x266BBF6c4E8aad54A224cF1fb259F91D412dF504, avarger amount: 5.1141130567017758, lottery amount:1
+user address:0x246A24B84449033b9c9336d688b4515D7f9598c0, avarger amount: 5.1120833514995979, lottery amount:1
+user address:0xA5CB591bb7fdCF70E91d8dfaA719be3e33bdD560, avarger amount: 5.1120297573283105, lottery amount:1
+user address:0xeC0F9C2cd0D619c83887eC099125651B8a3a3b05, avarger amount: 5.106942508281739, lottery amount:1
+user address:0x7744bFe2bc783aB0a4826eF7686353c9f2Fec45E, avarger amount: 5.1, lottery amount:1
+user address:0x6249B213cECBE60f9faa45044B07CFCcd567ad4e, avarger amount: 5.0999237996921338, lottery amount:1
+user address:0xC0Df9333f5e1F26f530d2Cd9891CcC2aC4d735b2, avarger amount: 5.0985424883512176, lottery amount:1
+user address:0xB9F831F19f94f09709cF75C757E5BD7A9a812819, avarger amount: 5.0805735, lottery amount:1
+user address:0xe071d6057502E410bbac5516264dAc188BB0e150, avarger amount: 5.0759335722924967, lottery amount:1
+user address:0x3a64583aaC8a7A0faCbcD1C380C738662367bE8A, avarger amount: 5.0759335722924967, lottery amount:1
+user address:0xd330b174777Abd7e1Fd369d3B2180E0b2097c835, avarger amount: 5.0759335722924967, lottery amount:1
+user address:0xf495AcD8CB989e20113f1db3531Ed2205e997DF8, avarger amount: 5.0759335722924967, lottery amount:1
+user address:0xcc3400Bb46923285eF8E4D932c5F876164ecF166, avarger amount: 5.0759335722924967, lottery amount:1
+user address:0xE462A0089e60d498b937ff75a19254F3e9d922D6, avarger amount: 5.0720528805906094, lottery amount:1
+user address:0xBc9AbD9857250D664F5D8963115f21a46156b862, avarger amount: 5.0699576951037756, lottery amount:1
+user address:0x17B64570484AAe779d718E727e21A1B05b975Da3, avarger amount: 5.0606291766018395, lottery amount:1
+user address:0x8B845fb3b030e238C845b95Ce96F0016bD37D6F9, avarger amount: 5.0597251986595196, lottery amount:1
+user address:0x8669D2a4A5C5Ef2c1cB3a0F44C527F9ad73e5d00, avarger amount: 5.0584270378911596, lottery amount:1
+user address:0xE5476721db576AD7541389325a03747A8786Aeff, avarger amount: 5.0581031906646162, lottery amount:1
+user address:0xf84975C731E88bd46c7017887b66C8e62efCe9A3, avarger amount: 5.0512736859036529, lottery amount:1
+user address:0xB52f5bC40e10D433f2660226d64d90C9b8A5317b, avarger amount: 5.0500000086511031, lottery amount:1
+user address:0x6A6166d395Fe11c71936e5Ebf56E723862DD845E, avarger amount: 5.05, lottery amount:1
+user address:0x081374C43e115293Fc13dA30D42110AD5b9608Af, avarger amount: 5.05, lottery amount:1
+user address:0x83b2877643008a1fEE86D65bFCE5f9615C9d9d2c, avarger amount: 5.05, lottery amount:1
+user address:0x5B6ac085d82017e6d0B42E8D06eea646a79A9276, avarger amount: 5.0489450676004579, lottery amount:1
+user address:0xBbE8b45Aea6620fD1F85DA6e03B957d58885dE3e, avarger amount: 5.0476297641666197, lottery amount:1
+user address:0x6E9fdf23c29e5Fa1a49fDfD7C8Be3c9F2e99eAf4, avarger amount: 5.0463966147953394, lottery amount:1
+user address:0x793491fe4A7b25EEE0065e484A52C7A0dfd8C0d9, avarger amount: 5.0463487167826288, lottery amount:1
+user address:0x0FbCad871dF293d23502E79A38d804e847cdc304, avarger amount: 5.0460252822359587, lottery amount:1
+user address:0x98B153b5460010564851fdb401fC26843ae74097, avarger amount: 5.0427083200935161, lottery amount:1
+user address:0x206830d8A814652edF6e56bdb3c533930d6C953d, avarger amount: 5.0421056460014919, lottery amount:1
+user address:0x44451c8417203cf5ae83053d4f855Cd1700D05f5, avarger amount: 5.0410216258324632, lottery amount:1
+user address:0xFA88f285dA98D46E96C988a71452d0bba3441Fa5, avarger amount: 5.035390652906235, lottery amount:1
+user address:0x2f2B7B085B056c9345cd3950AcCCaEEb57Db4f78, avarger amount: 5.0326067724924676, lottery amount:1
+user address:0x39B946e35b3DC215455cc95b446eDd8368928d10, avarger amount: 5.0315393011399601, lottery amount:1
+user address:0xc5ac20cFCac10454F41506Dd9293e8Ab29AaEceE, avarger amount: 5.0311558720642709, lottery amount:1
+user address:0xeffaeE41a516Ff29c645E596ceF088c7430073f8, avarger amount: 5.0311558720642709, lottery amount:1
+user address:0x07911832fcf06Cf678c2d4A5C80ED29d92ddBc4e, avarger amount: 5.0311558720642709, lottery amount:1
+user address:0x7d891d7CCF3d246353ec03734B8c166F4Cd8f785, avarger amount: 5.0311558720642709, lottery amount:1
+user address:0xcbE2560c51597154E01A6Fc1F529746a89Db0B76, avarger amount: 5.0311558720642709, lottery amount:1
+user address:0x11775F5CaBDb6b6bB4E997c6DdF509e155abE7BA, avarger amount: 5.0309103710614014, lottery amount:1
+user address:0x24a3f822C48085Ce8a0dc3f1a969639E93F3405a, avarger amount: 5.0309095886084886, lottery amount:1
+user address:0xE44e31f68597Ff5A2771b3c32CfA7BB8B211dF95, avarger amount: 5.0307568867245493, lottery amount:1
+user address:0xDBEcd62eEe284D1929Fb2ca5E2bD9709Db4b66Df, avarger amount: 5.0306085877084106, lottery amount:1
+user address:0x370603Fc4C1A6d100b0EdAeae29468ae2c23F927, avarger amount: 5.0288964550961079, lottery amount:1
+user address:0x75e9ebb531cb0c09Ba972f66C23525c8B2926FEc, avarger amount: 5.0276225841693989, lottery amount:1
+user address:0x435Cbd7c0096E3c50A922eEE93a098335D288698, avarger amount: 5.025784695642071, lottery amount:1
+user address:0x67c273F6BDa97824D5f245233eE4E38BB3Bb45A2, avarger amount: 5.025784695642071, lottery amount:1
+user address:0xf3Ab6f5ccBb9C46e6ba6602cea91a4851Df4Fe29, avarger amount: 5.025784695642071, lottery amount:1
+user address:0x01484d31eD350DC8B52A40a6215C3bBb88DBE0AB, avarger amount: 5.025784695642071, lottery amount:1
+user address:0xd477D50EC8FeBEA75AE7C77E1E779Ba89B27b55F, avarger amount: 5.024427044947479, lottery amount:1
+user address:0x0316196C7d2bc1354723D3FbF445F783D8FebE53, avarger amount: 5.0230730828857907, lottery amount:1
+user address:0xade10D07CF3700cbdf828A1138bf42dC02b3C92e, avarger amount: 5.0124028209890108, lottery amount:1
+user address:0x06Cacea44227d431FFC18859aE0Bb8fA838ed0dc, avarger amount: 5.0120167864050613, lottery amount:1
+user address:0x2b0D69e10874bE8D5a79CE6aaF88B2e5C551B6db, avarger amount: 5.006288361289965, lottery amount:1
+user address:0xd74eeC932A78233D03Ff03DED4205d05e6f592ec, avarger amount: 5.0026412813240047, lottery amount:1
+user address:0x39367cE3A0ad2bdE87BdaF932Aaa76f6bDc1C25e, avarger amount: 5.0019976895445801, lottery amount:1
+user address:0x971dC454d50704224C23a304F6FED9C538B4B855, avarger amount: 5, lottery amount:1
